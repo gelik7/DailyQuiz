@@ -27,3 +27,25 @@ DailyQuiz — это Android-приложение, позволяющее пол
 
 ---
 
+## Скриншоты работы приложения
+
+### Экран приветствия
+![Welcome Screen](screenshots/1.png)
+
+### Экран викторины
+![Question 1](screenshots/2.png)
+![Question 2](screenshots/3.png)
+![Question 3](screenshots/4.png)
+![Question 4](screenshots/5.png)
+![Question 5](screenshots/6.png)
+
+### Экран результатов
+![Result Screen](screenshots/7.png)
+
+### Экран разбора викторины
+![Review 1](screenshots/8.png)
+![Review 2](screenshots/9.png)
+![Review 3](screenshots/10.png)
+
+### Экран истории
+![History Screen](screenshots/11.png)
