@@ -67,8 +67,8 @@ fun ReviewScreen(
                             val isCorrectAnswer = optIndex == question.correctAnswerIndex
 
                             val borderColor = when {
-                                isCorrectAnswer -> Color(0xFF4CAF50) // зелёный
-                                isUserAnswer && !isCorrectAnswer -> Color(0xFFF44336) // красный
+                                isCorrectAnswer -> Color(0xFF4CAF50)
+                                isUserAnswer && !isCorrectAnswer -> Color(0xFFF44336)
                                 else -> Color.LightGray
                             }
 

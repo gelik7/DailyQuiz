@@ -45,7 +45,7 @@ fun HistoryScreen(onBack: () -> Unit) {
                 contentAlignment = Alignment.Center
             ) {
                 Text(
-                    text = "Вы пока не проходили ни одной викторины",
+                    text = "Вы ещё не проходили ни одной викторины",
                     fontSize = 16.sp
                 )
             }
